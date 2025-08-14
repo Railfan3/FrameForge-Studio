@@ -104,6 +104,4 @@ Image Processing: Pillow, OpenCV (optional)
 
 This project is licensed under the MIT License — see the LICENSE file for details.
 
-📜 License
 
-This project is licensed under the MIT License — see the LICENSE file for details.
